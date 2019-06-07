@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/michaelxue/Sample/_apis/build/status/michaelxue1.pipelines-java?branchName=master)](https://dev.azure.com/michaelxue/Sample/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
