@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/v-yuaxue0887/michaeldog/_apis/build/status/sudoxue.pipelines-java?branchName=master)](https://dev.azure.com/v-yuaxue0887/michaeldog/_build/latest?definitionId=2&branchName=master)
 [![Build Status](https://dev.azure.com/michaelxue/Sample/_apis/build/status/michaelxue1.pipelines-java?branchName=master)](https://dev.azure.com/michaelxue/Sample/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
